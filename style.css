@@ -1,0 +1,563 @@
+
+
+
+body {
+    font-family: initial;
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    color: #fff;
+    text-align: center; 
+    background-image: url("Background.png");
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn1{
+    background-color: rgb(128,0,128);
+    width: Hug (164px)px;
+    height: Hug (30px)px;
+    padding: 10px 12px 10px 16px;
+    gap: 8px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+
+}
+ 
+.btn1 .btn{
+    color: #111;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+ 
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li a{
+    margin-right: 20px;
+    color: rgb(128,0,128);
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-section ul{
+    
+    list-style: none;
+    display: flex;
+}
+
+.footer-section ul li a{
+    margin-right: 20px;
+    color: #fff;
+}
+
+.footer-section a{
+    text-decoration: none;
+}
+.hero-content{
+width: Fixed (1,216px)px;
+height: Hug (268px)px;
+top: 96px;
+left: 112px;
+padding: 0px 208px 0px 208px;
+gap: 32px;
+opacity: 0px;
+
+}
+
+
+
+.btn2{
+    width: Hug (192px)px;
+    height: Hug (56px)px;
+    padding: 7px 7px 7px 7px;
+    border-radius: 8px 8px 8px 8px;
+    background: rgba(245, 243, 255, 1);
+
+}
+
+.btn-layout{
+    color: rgba(241, 60, 243, 1);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    border: none;
+
+}
+
+
+.pioneering{
+ width: Hug (1,436px)px;
+height: Hug (856px)px;
+padding: 160px 112px 32px 112px;
+gap: 64px;
+opacity: 0px;
+
+}
+
+
+
+.heading{
+width: Fixed (800px)px;
+height: Hug (152px)px;
+gap: 8px;
+opacity: 0px;
+
+}
+
+ .heading h1{
+    color: rgba(249, 250, 251, 1);
+    font-family: Space Grotesk;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: -0.025em;
+    text-align: center;
+     text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.heading p{
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(249, 250, 251, 1);
+
+}
+
+.Hero5 {
+    opacity: 0px;
+    width: Fixed (1,440px)px;
+    height: Fixed (816px)px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.hero{
+width: 1440px;
+height: 766px;
+gap: 80px;
+opacity: 0px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 20px;
+    max-width: 800px; 
+    margin: 0 auto; 
+}
+
+.hero-features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    margin-top: 40px;
+    width: Hug (1,212px)px;
+    height: Hug (448px)px;
+    gap: 64px;
+    opacity: 0px;
+
+}
+
+.feature {
+     flex: 1 1 250px; 
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    width: Fixed (384px)px; 
+    height: Hug (192px)px;
+    gap: 24px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+
+}
+
+.feature h3 {
+margin-bottom: 10px;
+font-family: Space Grotesk;
+font-size: 30px;
+font-weight: 700;
+line-height: 40px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.feature p {
+margin-bottom: 0;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.Vision{
+width: Fixed (1,440px)px;
+height: Hug (340px)px;
+padding: 32px 112px 160px 112px;
+gap: 0px;
+opacity: 0px;
+}
+
+.logoclouds{
+width: Hug (800px)px;
+height: Hug (148px)px;
+padding: 24px 0px 0px 0px;
+gap: 32px;
+opacity: 0px;
+
+}
+
+.section{
+ width: Fixed (800px)px;
+height: Hug (124px)px;
+gap: 8px;
+opacity: 0px;
+
+}
+
+.hero1{
+width: Fixed (1,440px)px;
+height: Hug (490px)px;
+padding: 64px 0px 80px opx;
+gap: 40px;
+opacity: 0px;
+background: rgba(241, 60, 243, 1);
+display: flex;
+}
+
+.developers{
+width: Hug (1,440px)px;
+height: Hug (1,430px)px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+ .developers .hero1 .content1{
+width: Fill (942px)px;
+height: Hug (308px)px;
+padding: 0px 112px 0px 112px;
+gap: 40px;
+opacity: 0px;
+
+} 
+
+.btn3{
+    
+    width: Hug (258px)px;
+    height: Hug (56px)px;
+    padding: 16px 24px 16px 24px;
+    gap: 8px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+    background: rgba(245, 243, 255, 1);
+     
+}
+
+.button{
+color: rgba(241, 60, 243, 1);
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+text-decoration: none;
+}
+
+.button4{
+width: Hug (256px)px;
+height: Hug (56px)px;
+padding: 16px 24px 16px 24px;
+gap: 8px;
+border-radius: 8px 8px 8px 8px;
+opacity: 0px;
+background: rgba(241, 60, 243, 1);
+
+}
+.button4-layout{
+color: rgba(2, 6, 19, 1);
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+width: 208px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+text-decoration: none;
+}
+
+
+.creative{
+width: 346px;
+height: 281px;
+top: 43px;
+left: 10px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.creative img{
+ width: 187.83px;
+height: 141.13px;
+top: 66.18px;
+left: 62.97px;
+gap: 0px;
+opacity: 0px;
+rotate: -4.81 deg;
+
+width: 346px;
+height: 281px;
+top: 43px;
+left: 10px;
+gap: 0px;
+opacity: 0px; 
+
+}
+
+.creative2{
+width: 458px;
+height: 308px;
+padding: 11px 88px 0px 70px;
+gap: 0px;
+opacity: 0px; 
+
+
+}
+
+.creative2 img{
+ width: 300px;
+height: 312px;
+top: 11px;
+left: 70px;
+gap: 0px;
+opacity: 0px; 
+}
+
+.features1{
+width: Fixed (1,440px)px;
+ height: Hug (488px)px; 
+padding: 64px 112px 80px 112px;
+gap: 40px;
+opacity: 0px;
+background: rgba(4, 12, 38, 1);
+
+
+}
+
+ .features1 .feature1{
+    width: Fill (629px)px;
+    height: Hug (316px)px;
+    gap: 48px;
+    opacity: 0px;
+    text-align: right;
+    
+    margin: auto;
+} 
+
+
+.feature1 h2 h5{
+    width: Fill (629px)px;
+    height: Hug (316px)px;
+    gap: 48px;
+    opacity: 0px;
+    
+}
+
+.feature2{
+width: Fixed (1,440px)px;
+height: Hug (452px)px;
+padding: 64px 0px 80px 0px;
+gap: 40px;
+opacity: 0px;
+background: rgba(18, 27, 52, 1);
+display: flex;
+}
+
+.feature2 .Unique-content{
+ width: Fill (942px)px;
+height: Hug (248px)px;
+padding: 0px 112px 0px 112px;
+gap: 40px;
+opacity: 0px;
+text-align: justify;
+margin-top: 80px;
+}
+
+.feature2 img{
+width: 300px;
+height: 312px;
+top: 11px;
+left: 70px;
+gap: 0px;
+opacity: 0px;
+}
+
+.feature3{
+width: Fill (1,440px)px;
+height: Hug (628px)px;
+padding: 112px 0px 0px 0px;
+gap: 0px;
+opacity: 0px;
+background: rgba(4, 12, 38, 1);
+
+
+}
+
+.feature3 .herocontent{
+width: Fill (1,216px)px;
+height: Hug (404px)px;
+gap: 0px;
+border-radius: 16px 16px 16px 16px;
+opacity: 0px;
+background: rgba(152, 21, 243, 1);
+display: flex;
+margin-left: 50px;
+margin-right: 50px;
+}
+
+
+.feature3 .herocontent .typeleft{
+    width: Fill (608px)px;
+    height: Hug (404px)px;
+    padding: 64px;
+    gap: 40px;
+    opacity: 0px;
+    text-align: left;
+    }
+
+.feature3 .herocontent .typeright{
+width: Fill (608px)px;
+height: Fill (404px)px;
+padding: 64px;
+gap: 40px;
+opacity: 0px;
+text-align: right;
+margin-left: auto;
+}
+
+.feature4{
+width: Fill (1,440px)px;
+height: Hug (628px)px;
+padding: 112px 0px 90px 0px;
+gap: 0px;
+opacity: 0px;
+background: rgba(4, 12, 38, 1);
+}
+
+ .operator{
+    width: 547px;
+    height: 344px;
+    gap: 0px;
+    opacity: 0px;
+    
+    
+}
+
+.operator img{
+width: 547px;
+height: 344px;
+top: 64px;
+left: 112px;
+gap: 0px;
+opacity: 0px; 
+
+}
+
+
+
+.footer{
+width: Fixed (1,440px)px;
+height: Hug (320px)px;
+padding:0;
+margin: 0;
+box-sizing: border-box;
+background: rgba(2, 6, 19, 1);
+
+}
+
+.footer-container{
+width: Fill (1,008px)px;
+height: Hug (128px)px;
+gap: 32px;
+opacity: 0px;
+
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 100px;
+}
+
+.footer-col ul{
+    list-style: none;
+    
+}
+
+.footer-col h4{
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 22px;
+    
+}
+
+.footer-container ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+}
+
+.logo2{
+ width: Fixed (176px)px;
+height: Hug (26px)px;
+gap: 32px;
+opacity: 0px;
+
+}
+
